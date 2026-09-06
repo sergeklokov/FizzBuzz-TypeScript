@@ -1,11 +1,14 @@
 # Angular specific
-/dist/
+#/dist/
 /out-tsc/
 /tmp/
 /coverage/
 /e2e/test-output/
 /.angular/
 .angular/
+
+#VS
+.vs
 
 # Node modules and dependency files
 /node_modules/
